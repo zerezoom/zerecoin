@@ -1,4 +1,4 @@
 # ZereCoin
 :zere_zoom:
 
-![zere_zoom](https://i.imgur.com/uvEgUvW.png)
+![zere_zoom](https://i.imgur.com/sYjzJOq.png)
