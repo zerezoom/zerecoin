@@ -1,0 +1,19 @@
+name: zere_zoom
+
+on:
+  push:
+    branches: [ main ]
+  pull_request:
+    branches: [ main ]
+
+  workflow_dispatch:
+
+jobs:
+  zere_zoom:
+    runs-on: ubuntu-latest
+
+    steps:
+      - uses: actions/checkout@v2
+
+      - name: zere_zoom
+        run: echo zere_zoom
